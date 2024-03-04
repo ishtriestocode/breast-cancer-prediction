@@ -31,4 +31,4 @@ To run the project:
 
 ## Acknowledgments
 
-Special thanks to [data source] for providing the dataset.
+Special thanks to kaggle.com for providing the dataset.
